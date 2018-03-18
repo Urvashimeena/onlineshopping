@@ -1,2 +1,2 @@
-# onlineshopping
-This web app is for prakash industries in guwahati
+# Prakash-Industry
+Project for developing a website for Prakash Industry - Guwahati
